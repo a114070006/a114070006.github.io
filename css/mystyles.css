@@ -1,0 +1,57 @@
+.jackcenter{
+    text-align: center;
+    color: blue;
+    background-color: rgb(250, 247, 245);
+}
+.jack{
+    background-color: rgb(1, 15, 15);
+    border: 5px solid rgb(0, 0, 16);
+    padding: 20px 30px;
+    border-radius: 15px;
+    color: rgb(9, 0, 0);
+    margin: 0 auto 0 auto;
+    width:  80%
+}
+
+.jack{
+    text-align: center;
+    height: 100px;
+    overflow: auto;
+}
+.centercenter{
+    text-align: center;
+}
+.blueblue{
+    color: blue;
+}
+a.jacklink:hover{
+    color: blue;
+    padding: 0 30px;
+    border-radius: 40px;
+    background-color: aqua;
+}
+.jackbig{
+    font-size: 20px;
+    font-weight: 800;
+}
+.alexgo{
+    font-size: 50px;
+    text-align: center;
+}
+section#about{
+    background-color: chartreuse;
+    background-image: url"../assels/img/bg.jpg";
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+
+}
+.bg-primary{
+    background-color: chartreuse;
+    
+}
+.text-primary{
+    background-color: chartreuse;
+}
