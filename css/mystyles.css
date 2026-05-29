@@ -4,20 +4,17 @@
     background-color: rgb(250, 247, 245);
 }
 .jack{
-    background-color: rgb(1, 15, 15);
-    border: 5px solid rgb(0, 0, 16);
+    background-color: rgb(31, 220, 220);
+    border-radius: 15px;
     padding: 20px 30px;
     border-radius: 15px;
-    color: rgb(9, 0, 0);
-    margin: 0 auto 0 auto;
-    width:  80%
-}
-
-.jack{
-    text-align: center;
+    color: rgb(246, 238, 238);
+    margin: 0 auto ;
+    width:  80%;
     height: 100px;
     overflow: auto;
 }
+
 .centercenter{
     text-align: center;
 }
@@ -34,24 +31,27 @@ a.jacklink:hover{
     font-size: 20px;
     font-weight: 800;
 }
-.alexgo{
+.jackgo{
     font-size: 50px;
     text-align: center;
 }
 section#about{
-    background-color: chartreuse;
-    background-image: url"../assels/img/bg.jpg";
+    background-color: rgb(139, 205, 73) !important;
+    background-image: url("../assels/img/bg.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     
-
 }
-.bg-primary{
-    background-color: chartreuse;
-    
+section#about div{
+    color: white; }
+section#about h1{
+  color:white;
 }
-.text-primary{
-    background-color: chartreuse;
+section#callme {
+    background-color: rgb(116 23 133) !important;
+}
+section#callme h2{
+    color: white;
 }
