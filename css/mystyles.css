@@ -1,14 +1,14 @@
 .jackcenter{
     text-align: center;
-    color: blue;
-    background-color: rgb(250, 247, 245);
+    color: rgb(1, 23, 27);
+    background-color: rgb(241, 135, 99);
 }
 .jack{
     background-color: rgb(31, 220, 220);
     border-radius: 15px;
     padding: 20px 30px;
     border-radius: 15px;
-    color: rgb(246, 238, 238);
+    color: rgb(220, 205, 205);
     margin: 0 auto ;
     width:  80%;
     height: 100px;
@@ -21,7 +21,7 @@
 .blueblue{
     color: blue;
 }
-a.jacklink:hover{
+.jacklink:hover{
     color: blue;
     padding: 0 30px;
     border-radius: 40px;
@@ -54,4 +54,10 @@ section#callme {
 }
 section#callme h2{
     color: white;
+}
+.jackyao{
+     width: 100%; 
+     height: 250px; 
+     object-fit: cover;
+     text-align: center;
 }
