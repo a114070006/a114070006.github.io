@@ -1,63 +1,154 @@
-.jackcenter{
+.jackcenter {
     text-align: center;
-    color: rgb(1, 23, 27);
-    background-color: rgb(241, 135, 99);
-}
-.jack{
-    background-color: rgb(31, 220, 220);
-    border-radius: 15px;
-    padding: 20px 30px;
-    border-radius: 15px;
-    color: rgb(220, 205, 205);
-    margin: 0 auto ;
-    width:  80%;
-    height: 100px;
-    overflow: auto;
+    color: white !important;
+    background-color: #4b97e2 !important;
+    padding: 10px 0;
+    font-weight: bold;
+    border-radius: 4px 4px 0 0;
 }
 
-.centercenter{
+.centercenter {
     text-align: center;
 }
-.blueblue{
-    color: blue;
+
+.jacklink {
+    color: #554cf2 !important;      
+    padding: 4px 15px;               
+    border-radius: 6px;              
+    background-color: #e9ecef;       
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 14px;
+    border: 1px solid #ced4da;       
+    display: inline-block;
 }
-.jacklink:hover{
-    color: blue;
-    padding: 0 30px;
-    border-radius: 40px;
-    background-color: aqua;
+
+a.jacklink:hover {
+    background-color: #2788e8;       
+    color: white !important;         
+    border-color: #2c8ceb;
 }
-.jackbig{
+
+.jackbig {
     font-size: 20px;
     font-weight: 800;
 }
-.jackgo{
+
+.jackgo {
     font-size: 50px;
     text-align: center;
 }
-section#about{
-    background-color: rgb(106, 233, 233) !important;
+
+section#about {
+    background-color: #2f5b7f !important;
     background-image: url("../assets/img/星空\ \(1\).jpg");
-    background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
+    background-attachment: fixed;
     background-size: cover;
-    
+  
 }
-section#about div{
-    color: white; }
-section#about h1{
-  color:white;
-}
-section#callme {
-    background-color: rgb(116 23 133) !important;
-}
-section#callme h2{
+
+section#about h1, section#about div {
     color: white;
 }
-.jackyao{
-     width: 100%; 
-     height: 250px; 
-     object-fit: cover;
-     text-align: center;
+
+section#callme {
+    background-color: #147de6 !important;
+}
+
+section#callme h2 {
+    color: white;
+}
+
+#sideNav {
+    background-color: #4f6272 !important;
+}
+
+.social-icons a, .social-icon, a.social-icon {
+    background-color: #4f6272 !important;
+    color: white !important;
+}
+
+.social-icons a:hover, a.social-icon:hover {
+    background-color: #2c3e50 !important;
+}
+
+.jackhappy {
+    background-color: #f1f5f9 !important;
+    color: #3e66eb !important;
+    padding: 15px 20px;
+    border-radius: 0 0 4px 4px;
+    border-bottom: 1px solid #e2e8f0;
+}
+
+.list-group-item {
+    background-color: #f8fafc !important;
+    color: #334155 !important;
+    border: 1px solid #e2e8f0 !important;
+}
+
+.list-group-item:first-child {
+    background-color: #2c3e50 !important;
+    color: white !important;
+    font-weight: bold;
+    border-color: #2c3e50 !important;
+}
+
+.list-group-item-primary,
+.list-group-item-secondary,
+.list-group-item-success,
+.list-group-item-danger,
+.list-group-item-warning,
+.list-group-item-info,
+.list-group-item-light,
+.list-group-item-dark {
+    background-color: #f1f5f9 !important;
+    color: #334155 !important;
+    border-color: #e2e8f0 !important;
+}
+
+table, 
+.table,
+table.table-primary,
+.table-primary {
+    --bs-table-bg: transparent !important;
+    --bs-table-striped-bg: transparent !important;
+}
+
+table thead tr, 
+table tr:first-child, 
+table tr.table-primary,
+.table thead th,
+.table-primary th,
+.table th[scope="col"] {
+    background-color: #2c3e50 !important;
+    color: white !important;
+    font-weight: 600 !important;
+}
+
+.table tbody td, 
+table tbody tr td {
+    background-color: #ffffff !important;
+    color: #334155 !important;
+}
+
+.scroll-to-top,
+.scroll-to-top i,
+.fa-arrow-down, 
+.fa-chevron-down, 
+.fa-angles-down,
+.fa-arrow-up,
+.fa-chevron-up,
+[class*="fa-arrow-"],
+[class*="fa-chevron-"] {
+    color: #ffffff !important;
+    background-color: transparent !important;
+}
+#jack h2 {
+    text-align: center;
+    background-color: #2c3e50; 
+    color: #ffffff;
+    padding: 20px;
+    border-radius: 4px 4px 0 0;
 }

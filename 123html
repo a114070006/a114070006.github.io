@@ -1,68 +1,263 @@
- <section class="resume-section" id="school">
+<!DOCTYPE html>
+<html lang="zh-TW">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="這是A114070006黃冠傑的個人網站" />
+        <meta name="author" content="黃冠傑" />
+        <title>A114070006 黃冠傑</title>
+        <link rel="icon" type="image/x-icon" href="favicon.ico" />
+        <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+        <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css" />
+        <link href="css/styles.css" rel="stylesheet" />
+        <link href="css/mystyles.css" rel="stylesheet" />
+    </head>
+    <body id="page-top">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+            <a class="navbar-brand js-scroll-trigger" href="#page-top">
+                <span class="d-block d-lg-none">黃冠傑 jack</Time></span>
+                <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/a114070006.jpg" alt="黃冠傑的大頭照" /></span>
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">黃冠傑 guanguan</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#school">教育經驗</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#work">工作經驗</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">歌曲小清單</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">近期關注YT</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">即刻聯絡</a></li>
+                </ul>
+            </div>
+        </nav>
+        <div class="container-fluid p-0">
+            <section class="resume-section" id="about"> 
+                <div class="resume-section-content centercenter">
+                    <h1 class="mb-0 basecenter">
+                        黃冠傑
+                        <span class="text-primary">guanguan</span>
+                    </h1>
+                    <div class="subheading mb-5 centercenter">
+                        世新大學資訊傳播學系學生，熱愛唱歌和聽音樂
+                       <a herf="mailto:fwguanjie@gmail.com"></a>
+                    </div>
+                    <p class="lead mb-5 text-primary jack">是個大學新鮮人剛出社會半年，目前工作為超商店員，平時喜歡玩遊戲像是傳說對決、貓咪大戰爭、第五人格、決勝時刻，個性偏向安靜，不過對認識的人能放得開話能比較多，而平時也聽聽音樂唱唱歌也已成為我的興趣之一</p>
+                    <div class="jackgo"><a herf="#school"><i ciass="fa-solid fa-down-long"></i></a></div>
+                    </div>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- 教育經驗-->
+            <section class="resume-section" id="education">
                 <div class="resume-section-content">
                     <h2 class="mb-5 jackcenter">教育經驗</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">世新大學資訊傳播學系學士班 <a href="https://ics.wp.shu.edu.tw/" target="_blank" class="jacklink"><i class="fa-solid fa-angle-right"></i></a></h3>
-                            <div class="subheading mb-3">目前就學中</div>
-                             <ul class="list-group">
-                            <li class="list-group-item active">超喜愛課程 <i class="fa-solid fa-star"></i></li>
-                            <li ciass="list-group-item list-group-item-success">網路直播經營</li>
-                        <li ciass="list-group-item"><div class="jackbig"><i class="fa-solid
-                            fa-earth-asia"></i>網頁設計</div>網頁設計課主要在教HTML和CSS，期中考隨隨便便考一百啦</li>
-                        <li class="list-group-item"><div class="jackbig"><i ciass="fa-solid
-                        fa-flag-usa"></i> 英文課</div>我喜歡英文課，英文課有很多繪畫練習，我覺得非常有趣，而且也能順便練習英文</li>
-                        <li class="list-group-item list-group-item-primary">直播課</li>
-                        </ul>
-                        <div class="flex-shrink-0"><span class="text-primary">2025/09/01</span></div>
-                    </div>
-                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                            <div class="subheading mb-3">就學中</div>
+                            <ul class="list-group">
+                                <li class="list-group-item active"><div class="jackbig">超喜愛課程 <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i></div></li>
+                                 <li ciass="list-group-item list-group-item-success">網路直播經營</li>
+                                 <li ciass="list-group-item"><div class="jackbig"><i class="fa-solidfa-earth-asia"></i>網頁設計</div>網頁設計課主要在教HTML和CSS，期中考隨隨便便考一百啦</li>
+                                 <li class="list-group-item"><div class="jackbig"><i ciass="fa-solidfa-flag-usa"></i> 英文課</div>我喜歡英文課，英文課有很多繪畫練習，我覺得非常有趣，而且也能順便練習英文</li>
+                                 <li class="list-group-item"><div class="jackbig"><i ciass="fa-solidfa-flag-usa"></i> 直播課</div>開直播很有趣玩自己喜歡的遊戲，並也能分享給大家</li>
+                                 <div class="flex-shrink-0"><span class="text-primary">2022年9月至2025年6月</span></div>
+                            </ul>
+                        </div>
+                         <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">國立基隆商工<a href="https://www.klcivs.kl.edu.tw/home" target="_blank" class="jacklink"><i class="fa-solid fa-angle-right"></i></a></h3>
+                            <h3 class="mb-0">國立基隆商工<a href="https://www.klcivs.kl.edu.tw/home" target="_blank" class="jacklink"><i class="fa-solid fa-arrow-up-right"></i></a></h3>
                             <div class="subheading mb-3">高中畢業</div>
                             <table class="table table-striped table-hover">
                                 <tr class="table-primary">
                                     <th>科目</th>
                                     <th>喜愛程度</th>
+                                    <th>學習內容</th>
                                     <th>評論</th>
                                     <th>分數</th>
                                 </tr>
                                 <tr>
                                     <td>國文</td>
                                     <td><i class="fa-solid fa-star"></i><i class="fa-regular"></i><i class="fa-solid fa-star"></i><i class="fa-regular"></i><i class="fa-solid fa-star"></i><i class="fa-regular"></i><i class="fa-solid fa-star"></i><i class="fa-regular"></i><i class="fa-solid fa-star"></i><i class="fa-regular"></i></td>
+                                    <td>山不在高，有仙則名，水不在深，有龍則靈</td>
                                     <td>還行啦</td>
                                     <td>11</td>
                                 </tr>
                                 <tr>
                                     <td>數學</td>
                                     <td><i class="fa-solid fa-star"></i><i class="fa-regular"></i></td>
+                                    <td>初學微積分覺得(還行)現在:痾 算了</td>
                                     <td>真的累到</td>
                                     <td>2</td>
                                 </tr>
                                 <tr>
                                     <td>英文</td>
                                     <td><i class="fa-solid fa-star"></i><i class="fa-regular"></i><i class="fa-solid fa-star"></i><i class="fa-regular"></i><i class="fa-solid fa-star"></i><i class="fa-regular"></i></td>
+                                    <td>以前都是死背</td>
                                     <td>人上人吧</td>
                                     <td>6</td>
                                 </tr>
                                 <tr>
                                     <td>自然</td>
                                     <td><i class="fa-solid fa-star"></i><i class="fa-regular"></i><i class="fa-solid fa-star"></i><i class="fa-regular"></i><i class="fa-solid fa-star"></i><i class="fa-regular"></i><i class="fa-solid fa-star"></i><i class="fa-regular"></i></td>
+                                    <td>地科很討厭</td>
                                     <td>宇宙太大了，根本學不完啊</td>
                                     <td>7</td>
                                 </tr>
                                 <tr>
                                     <td>社會</td>
                                     <td><i class="fa-solid fa-star"></i><i class="fa-regular"></i><i class="fa-solid fa-star"></i><i class="fa-regular"></i><i class="fa-solid fa-star"></i><i class="fa-regular"></i></td>
+                                    <td>取名字，都有目的在的</td>
                                     <td>古巴比倫王頒布了漢摩拉比法典</td>
                                     <td>10</td>
                                 </tr>
-
-                            </table>
-                           
+                             </table> 
+                             <div class="flex-shrink-0"><span class="text-primary">2022年9月至2025年6月</span></div>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">2022年9月至2025年6月</span></div>
+                     </div>
+                  </div>
+               </section>
+            <hr class="m-0" />
+            <!-- 工作經驗-->
+            <section class="resume-section" id="education">
+                <div class="resume-section-content">
+                    <h2 class="mb-5 jackcenter">工作經驗</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">超商店員</h3>
+                            <div class="subheading mb-3">在業</div>
+                           <ul class="list-group">
+                                <li class="list-group-item active"><div class="jackbig">事務處理 <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i></div></li>
+                                <li class="list-group-item list-group-item-success"><div class="jackbig"><i class="fa-solid fa-computer"></i> 清理蒸包機</div>將蒸包機電源裝置關閉，再做層架清洗。</li>
+                                <li class="list-group-item list-group-item-danger"><div class="jackbig"><i class="fa-solid fa-book"></i> 補貨</div>每到一個時段會有送貨員到場，我們需要將食品由後往前排列，並且要注意先前的食品期限。</li>
+                                <li class="list-group-item list-group-item-warning"><div class="jackbig"><i class="fa-solid fa-comments"></i> 收銀</div>協助客人結帳及相關帶位服務。</li>
+                            </ul>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">2026年2月至今</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0"></h3>
+                        </div>
                     </div>
                 </div>
             </section>
             <hr class="m-0" />
+            <!--推薦歌曲 -->
+            <section class="resume-section" id="skills">
+                <div class="resume-section-content">
+                    <h2 class="mb-5 jackcenter">歌曲小清單</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3> 推薦歌曲</h3>
+                            <ul class="list-group">
+                                <li class="list-group-item list-group-item-success"><div class="jackbig">擱淺</div>裡面有一段非常具挑戰性的C5音域，雖然這首是個接近二十年的老歌，不過也陪伴我度過高中生活至今，也是陪伴無數人的一首歌，MV說著因為一個偶然的相遇與時間促成了女主對男主的誤會，當在三年後的上班途中經過的平交道，不小心掉落的皮夾偶然的抬頭與女主的對視已不是</li>
+                                <li class="list-group-item list-group-item-danger"><div class="jackbig">baby</div>長喉結了上不去了，大概降三key，這首放到現在簡直是英文版的青春修練手冊啊，MV訴說著賈斯汀初戀時的愛戀及年少的青澀並說著雙方都互相喜歡對方但都遲遲沒勇氣做出表白，於是賈斯汀等團隊寫出名為Baby獻給年少的自己。</li>
+                                <li class="list-group-item list-group-item-warning"><div class="jackbig">雙節棍</div>好聽，我覺得非常熱血。</li>
+                            </ul>
+                        </div>
+                        
+                    </div>
+            </section>
+            <hr class="m-0" />
+            <!--近期關注的Youutube-->
+            <section class="resume-section" id="interests">
+                <div class="resume-section-content">
+                    <h2 class="mb-5 jackcenter">近期關注的Youtube</h2>
+                    <div class="row card">
+                        
+                            <div class=" shadow-sm">
+                                <div class="col-md-6 col-6 mb-6 card-body container-fluid ">
+                                <a href="assets/img/星猩幫.jpg" target="_blank">
+                                    <img src="assets/img/星猩幫.jpg" alt="0322" style="width: 100%; height: 250px; object-fit: cover;">
+                                    <h3 class="mb-0">尼克星 <a href="https://www.youtube.com/@%E5%AF%B6%E5%AF%B6W%E5%B0%BC%E5%85%8B%E6%98%9F" target="_blank" class="jacklink"><i class="fa-solid fa-angle-right"></i></a></h3>
+                                </a>
+                                <li class="list-group-item list-group-item-success"><div class="jackbig"><i class="fa-solid fa-"></i> 尼克星(阿星)</div>時常以最誇張的情緒表現和肢體語言做出多種效果，雖然有時會弄壞些東西還很吵，但我相信來看他的觀眾基本上都是想看他崩潰的。</li>
+                                </div>
+                            </div>
+                            <div class=" shadow-sm">
+                                <div class="col-md-6 col-6 mb-6 container-fluid ">
+                                <a href="assets/img/0322.jpg" target="_blank">
+                                    <img src="assets/img/0322.jpg" alt="0322" style="width: 100%; height: 250px; object-fit: cover;">
+                                    <h3 class="mb-0">空巴嗨嗨0322 <a href="https://www.youtube.com/@%E7%A9%BA%E5%B7%B4%E5%97%A8%E5%97%A80322" target="_blank" class="jacklink"><i class="fa-solid fa-angle-right"></i></a></h3>
+                                </a>
+                                <li class="list-group-item list-group-item-warning"><div class="jackbig"><i class="fa-solid fa-"></i> 空巴嗨嗨0322</div>是個前前前世界冠軍的電競選手，0322以他獨特的說話風格和玩遊戲時的節目效果，博取了大眾眼球。</li>
+                                </div>
+                            </div>
+                              <div class="card border-0 shadow-sm">
+                                <a href="assets/img/維斯維.jpg" target="_blank">
+                                    <img src="assets/img/維斯維.jpg" class="img-fluid rounded" alt="維斯維" style="width: 100%; height: 250px; object-fit: cover;">
+                                    <h3 class="mb-0">維斯維 <a href="https://www.youtube.com/@WeisWay" target="_blank" class="jacklink"><i class="fa-solid fa-angle-right"></i></a></h3>
+                                </a>
+                                <li class="list-group-item list-group-item-danger"><div class="jackbig"><i class="fa-solid fa-"></i> 維斯維</div>是個知識型youtube，主要內容為探討人們心理和生活小知識，像是會談論心理學或者是心理疾病病徵等等。</li>
+                                
+                             </div>
+                            
+                        </div>
+                    
+                    </div>
+            </section>
+            <hr class="m-0" />
+            <!--即刻聯絡-->
+            <section class="resume-section" id="awards">
+                <div class="resume-section-content">
+                    <h2 class="mb-5 jackcenter">即刻聯絡</h2>
+                    <!--
+                    <ul class="fa-ul mb->
+                    <i class="fa-solid fa-caret-down"></i>
+                    <li>
+                        <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                        Google Analytics Certified Developer
+                    </li>
+                    <li>
+                         <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                         Mobile Web Specialist-Google Certification
+                    </li>
+                    <li>
+                         <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                         1
+                         <sup>st</sup>
+                         place-University of Colorado Boulder-Emerging Teach Competition 2009
+                    </li>
+                    <li>
+                         <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                         1
+                          <sup>st</sup>
+                          place-university of Colorado Bouldeer-Adobe Creaive Jam 2008 (UI Desgn Category)
+                    </li>
+                    <li>
+                         <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                         2
+                         <sup>st</sup>
+                         place-University of Colorado Boulder-Emerging Tech Competition 2008
+
+                    </li>
+                    <li>
+                         <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                         1
+                         <sup>st</sup>
+                         place-James Buchanan High school-Hackation 2006
+                    </li>
+                    <li>
+                         <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                         3
+                         <sup>st</sup>
+                         place-James Buchanan High school-Hackation 2005
+                    </li>
+                </ul>-->
+                    <div class="social-icons centercenter">
+                        <a class="social-icon" href="https://steamcommunity.com/profiles/76561198786348928/friends/add/"><i class="fab fa-steam"></i></a>
+                        <a class="social-icon" href="https://www.youtube.com/@Guanjie007"><i class="fab fa-youtube"></i></a>
+                        <a class="social-icon" href="https://www.instagram.com/guanjie_262/?hl=zh-tw"><i class="fab fa-instagram"></i></a>
+                        <a class="social-icon" href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                        </div>
+                </div>
+            </section>
+        </div>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
